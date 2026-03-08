@@ -16,4 +16,4 @@ I bridge the gap between high-performance Web3 infrastructure and community grow
 ### 📬 Connect with me
 * **X (Twitter):** https://x.com/0x_Inomasa
 * **Telegram:** @inomasaa
-* 
+* **Discord:**  @0x_inomasa
